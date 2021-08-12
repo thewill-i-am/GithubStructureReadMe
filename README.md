@@ -16,7 +16,8 @@ Nuestro proyecto tiene la siguiente estructura de folders:
 Para los ```FOLDERS``` estamos siguiendo la siguiente nomenclatura:
 
 <ul>
-  <li></li>
+  <li>Para los FOLDERS CamelCase</li>
+  <li>Para los FILES snake_case y al final se adjunta la fecha</li>
 </ul>
 
 
