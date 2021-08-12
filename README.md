@@ -5,7 +5,7 @@ Nuestro proyecto tiene la siguiente estructura de folders:
 
 ```
 |-- Examen
-|   |-- DatosSinProcesar
+|   |-- DatosProcesados
 |   |   |--file.xls
 |   |-- DatosSinProcesar
 |   |   |--file.xls
