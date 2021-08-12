@@ -4,7 +4,7 @@
 Nuestro proyecto tiene la siguiente estructura de folders:
 
 ```
-|-- examen
+|-- Examen
 |   |-- DatosSinProcesar
 |   |   |--Python_Yelp_Request_Data_Cleaning.ipynb
 |   |   |--token.txt
