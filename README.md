@@ -8,7 +8,7 @@ Nuestro proyecto tiene la siguiente estructura de folders:
 |   |-- DatosProcesados
 |   |   |--file.xls
 |   |-- DatosSinProcesar
-|   |   |--file.xls
+|   |   |--dataset_sinprocesar_20210811.xlsx.xls
 |   |-- README.md
 ```
 Para los ```FOLDERS``` estamos siguiendo la siguiente nomenclatura:
