@@ -15,4 +15,8 @@ Nuestro proyecto tiene la siguiente estructura de folders:
 ```
 Para los ```FOLDERS``` estamos siguiendo la siguiente nomenclatura:
 
+<ul>
+  <li></li>
+</ul>
+
 
