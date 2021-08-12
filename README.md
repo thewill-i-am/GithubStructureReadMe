@@ -6,9 +6,9 @@ Nuestro proyecto tiene la siguiente estructura de folders:
 ```
 |-- Examen
 |   |-- DatosProcesados
-|   |   |--file.xls
+|   |   |--dataset_procesado_20210811.xls 
 |   |-- DatosSinProcesar
-|   |   |--dataset_sinprocesar_20210811.xlsx.xls
+|   |   |--dataset_sinprocesar_20210811.xls
 |   |-- README.md
 ```
 Para los ```FOLDERS``` estamos siguiendo la siguiente nomenclatura:
