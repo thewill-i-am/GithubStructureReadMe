@@ -15,7 +15,10 @@ Para los ```FOLDERS``` estamos siguiendo la siguiente nomenclatura:
 
 <ul>
   <li>Para los FOLDERS CamelCase</li>
-  <li>Para los FILES snake_case y al final se adjunta la fecha</li>
 </ul>
 
+Para los ```FILES``` estamos siguiendo la siguiente nomenclatura:
 
+<ul>
+  <li>Para los FILES snake_case y al final se adjunta la fecha</li>
+</ul>
