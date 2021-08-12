@@ -13,3 +13,6 @@ Nuestro proyecto tiene la siguiente estructura de folders:
 |   |   |--Restaurante Corner Kitchen.csv
 |   |-- README.md
 ```
+Para los ```FOLDERS``` estamos siguiendo la siguiente nomenclatura:
+
+
